@@ -10,4 +10,5 @@ r
 emre
 masterdayım ensona bir sey ekledim
 
+emre local branch
 s vcdsvcsdvkh
