@@ -1,0 +1,5 @@
+sakla
+dizin/
+dizin2/*
+!dizin2/filename
+
