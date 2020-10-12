@@ -13,3 +13,4 @@ masterdayım ensona bir sey ekledim
 emre local branch
 s vcdsvcsdvkh
 emre remote branch
+branch emre
